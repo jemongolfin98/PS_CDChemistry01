@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638917584066534515
-    m_Hash: 4241709491
+      ticks: 638920288239597727
+    m_Hash: 4131503280
   m_LockFileStatus:
     m_FilePath: C:/Users/je425824/git/PS_CDChemistry01/PS_CDG_Chemistry01/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638917584066559918
-    m_Hash: 239079198
+      ticks: 638920288239652879
+    m_Hash: 558149749
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
